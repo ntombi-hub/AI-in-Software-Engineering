@@ -1,0 +1,28 @@
+Part 1: Theoretical Analysis
+Q1 – AI-driven code generation tools
+
+Answer: GitHub Copilot reduces development time by suggesting code snippets, boilerplate, and logic. It helps with autocomplete, repetitive tasks, and learning new APIs.
+
+Limitations: Can suggest incorrect or insecure code; cannot fully understand project context; human review is required.
+
+Q2 – Supervised vs. Unsupervised Learning in Bug Detection
+
+Supervised: Uses labeled datasets (bug/no bug) to train a model for predicting issues.
+
+Unsupervised: Finds anomalies or patterns in code without labeled data; useful for detecting unknown bugs.
+
+Q3 – Bias Mitigation
+
+AI models personalizing UX may favor certain user groups, leading to unfair experiences.
+
+Mitigation ensures equitable recommendations for all users.
+
+Case Study: AIOps
+
+Automates deployment pipelines, improving efficiency.
+
+Examples:
+
+Automated rollback when a deployment fails
+
+Predicting resource usage to avoid downtime
